@@ -19,7 +19,7 @@ h1{
  }
 
  .c1, .c2, .c3 {
-    float: right;
+    float: left;
     text-align: center;
     display: block;
     border: 2px;
