@@ -11,9 +11,9 @@ h1{
  .block{
     position: relative; 
     padding: 30px;
-    margin-left:10px;
-    margin-right:10px;
-    margin-bottom:20px;
+    margin-left:25px;
+    margin-right:25px;
+    margin-bottom:25px;
     background-color: #e85d5d60;
     border: 2px solid #80007e;
  }
