@@ -9,6 +9,7 @@ h1{
  }
 
  .block{
+    position: relative;
     background-color:#cf2f2f61;
     margin-left:25px;
     margin-right:25px;
@@ -16,7 +17,7 @@ h1{
     border: 2px solid black;
 } 
 .block p{
-    padding: 20px;
+    padding: 30px;
 }
 
 .c1 , .c2 , .c3{
