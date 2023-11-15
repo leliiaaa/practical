@@ -21,12 +21,11 @@ h1{
 }
 
 .c1 , .c2 , .c3{
-    text-align: center;
+    float: right;
+    border: 2px solid black;
     display: block;
-    border: 2px;
-    width: 130px;  
-    position: absolute;
-    float: right; 
+    width: 120px;
+    text-align: center;
  }
  
  .c1{
