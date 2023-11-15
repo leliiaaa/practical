@@ -18,13 +18,13 @@ h1{
     border: 2px solid #80007e;
  }
 
- .c1, .c2, .c3 {
-    float: right;
+.c1 , .c2 , .c3 {
     text-align: center;
     display: block;
     border: 2px;
     width: 115px;  
-    position: absolute; 
+    position: absolute;
+    float: right; 
  }
  
  .c1{
