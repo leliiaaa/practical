@@ -45,3 +45,32 @@ table {
     font-weight: 650;
     text-align: right;
   }
+
+  @media (min-width: 992px) {
+      
+    .col-lg-4 {
+     font-size: 1.3em;;
+    }
+    .col-lg-3 {
+     font-size: 1.2em;
+    }
+   }
+   
+   /*medium */
+   @media (min-width: 768px) and (max-width: 992px){
+    .col-md-6 {
+       font-size: 1.2em;
+    }
+   
+    .col-md-7 {
+       font-size: 1.1em;
+    }
+   }
+   
+   /*small*/
+   @media (max-width: 768px){
+   
+    .col-sm-12 {
+       font-size: 1.1em;
+    }
+   }
