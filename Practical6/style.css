@@ -35,12 +35,13 @@
          .row{
           width: 100%;
           display: flex;
-          flex-direction: row;
          }
 
         /* large */
        @media (min-width: 992px){
-        
+        ul {
+          flex-direction: row;
+        }
       }
 
        /*medium */
@@ -50,6 +51,9 @@
 
         /*small*/
        @media (max-width: 768px){
+        ul{
+          flex-direction: column;
+        }
        
       }
 
