@@ -37,7 +37,7 @@
         flex-wrap: wrap;
          }
 
-         ul{
+         h2{
           width: 100%;
           display: flex;
           padding: 0;
@@ -46,7 +46,7 @@
 
         /* large */
        @media (min-width: 992px){
-        ul {
+        h2 {
           flex-direction: row;
         }
       }
@@ -58,7 +58,7 @@
 
         /*small*/
        @media (max-width: 768px){
-        ul{
+        h2{
           flex-direction: column;
         }
        
