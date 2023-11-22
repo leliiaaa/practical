@@ -31,9 +31,50 @@
          font-size: 24px;
          }
 
-         .container {
+         .biography {
           display: flex; 
           flex-wrap: wrap;
           width: 100%;
           margin: auto;
         }
+
+        .friends {
+          display: flex; 
+          flex-wrap: wrap;
+          width: 100%;
+          margin: auto;
+        }
+
+        .nowadays {
+          display: flex; 
+          flex-wrap: wrap;
+          width: 100%;
+          margin: auto;
+        }
+
+        .gallery {
+          display: flex; 
+          flex-wrap: wrap;
+          width: 100%;
+          margin: auto;
+        }
+
+
+
+
+        /* large */
+       @media (min-width: 992px){
+
+      }
+
+       /*medium */
+ @media (min-width: 768px) and (max-width: 992px){
+
+  }
+
+        /*small*/
+  @media (max-width: 768px){
+
+   }
+
+ 
