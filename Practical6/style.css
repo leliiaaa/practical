@@ -34,10 +34,8 @@
 
          .row{
           width: 100%;
-         }
-
-         body{
           display: flex;
+          flex-wrap: wrap;
          }
 
         /* large */
