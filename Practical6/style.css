@@ -32,15 +32,11 @@
          margin: 0;
          }
          
-         .row {
-        display: flex;
-         }
-
-         h2{
-          width: 100%;
+        ul{
           display: flex;
-          padding: 0;
-         }
+          flex-wrap: wrap;
+          flex-direction: row;
+        }
 
           /* large */
           @media (min-width: 992px) {  
