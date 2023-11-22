@@ -1,0 +1,47 @@
+table {
+    width: 60%;
+    border-collapse: collapse;
+    margin: 20px;
+    table-layout: auto;
+  }
+  td {
+    padding: 13px;
+    border: 2px dotted #000000;
+    text-align: center;
+  }
+  .bigyn {
+    background-color: gray;
+  }
+  .kravtsiv {
+    background-color: white;
+  }
+
+  h1{
+    text-align: center;
+    font-size: 22px;
+   }
+
+  .ind{
+     font-style: italic;
+  }
+
+  h2{
+    text-align: center;
+  }
+
+  .th{
+    background-color: #096709;
+    color: #ffff00;
+   font-weight: 650;
+  }
+
+  .tel{
+    text-align: right;
+  }
+
+  .tht{
+    background-color: #096709;
+    color: #ffff00;
+    font-weight: 650;
+    text-align: right;
+  }
