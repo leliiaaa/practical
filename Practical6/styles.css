@@ -1,0 +1,147 @@
+#mybasic {
+    background-color: blue;
+    color: azure;
+    text-decoration: none;
+    display: block;
+    width: 230px;
+    text-align: center;
+    border: 2px dotted #160b3f;
+    margin-bottom: 2px;
+    font-size: 120%;
+  }
+  #mybasic:hover {
+    background-color: magenta;
+    color: black;
+  }
+  #mybasic:active {
+    background-color: yellow;
+    color: green;
+  }
+
+  #mychildhood {
+    background-color: blue;
+    color: azure;
+    text-decoration: none;
+    display: block;
+    width: 230px;
+    text-align: center;
+    border: 2px dotted #160b3f;
+    margin-bottom: 2px;
+    font-size: 120%;
+  }
+  #mychildhood:hover {
+    background-color: magenta;
+    color: #6a3333;
+  }
+  #mychildhood:active {
+    background-color: yellow;
+    color: green;
+  }
+
+  #myschool {
+    background-color: blue;
+    color: azure;
+    text-decoration: none;
+    display: block;
+    width: 230px;
+    text-align: center;
+    border: 2px dotted #160b3f;
+    margin-bottom: 2px;
+    font-size: 120%;
+  }
+  #myschool:hover {
+    background-color: magenta;
+    color: #6a3333;
+  }
+  #myschool:active {
+    background-color: yellow;
+    color: green;
+  }
+  #myafter {
+    background-color: blue;
+    color: azure;
+    text-decoration: none;
+    display: block;
+    width: 230px;
+    text-align: center;
+    border: 2px dotted #160b3f;
+    margin-bottom: 2px;
+    font-size: 120%;
+  }
+  #myafter:hover {
+    background-color: magenta;
+    color: #6a3333;
+  }
+  #myafter:active {
+    background-color: yellow;
+    color: green;
+  }
+  #myuni {
+    background-color: blue;
+    color: azure;
+    text-decoration: none;
+    display: block;
+    width: 230px;
+    text-align: center;
+    border: 2px dotted #160b3f;
+    margin-bottom: 2px;
+    font-size: 120%;
+  }
+  #myuni:hover {
+    background-color: magenta;
+    color: #7654a6;
+  }
+  #myuni:active {
+    background-color: yellow;
+    color: green;
+  }
+ 
+
+  #basic {
+    background-color: #de5f5f;
+    color: #0d2e66;
+  }
+  #childhood {
+    background-color: #cd5980;
+    color: #600f60;
+  }
+  #school {
+    background-color: #53d2b3;
+    color: #105d6f;
+  }
+  #after {
+    background-color: #599fa4;
+    color: #280e70;
+  }
+  #uni {
+    background-color: #e72b89;
+    color: #2f0f3f;
+  }
+
+  h1{
+   text-align: center;
+   font-size: 22px;
+  }
+
+.index{
+   font-style:italic;
+  }
+
+  h2{
+    text-align: center;
+    font-size: 144%;
+  }
+
+
+ h3{
+  text-align: center;
+  font-size: 144%;
+  }
+
+.cont{
+   font-weight: 650;
+  }
+
+.up{
+   text-transform: uppercase;
+  }
