@@ -32,10 +32,11 @@
          margin: 0;
          }
 
-         .row{
+         ul{
           width: 100%;
           display: flex;
          }
+
 
         /* large */
        @media (min-width: 992px){
