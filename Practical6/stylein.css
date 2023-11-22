@@ -1,0 +1,27 @@
+.hello {
+    background-color: gray;
+  }
+  .world {
+    background-color: white;
+  }
+
+  .pig {
+    background-color: #afa9ef;
+  }
+
+  .star:hover {
+      cursor: pointer;
+  }
+
+  h1{
+      font-size: 22px;
+      text-align: center;
+  }
+
+  .inde{
+      font-style: italic;
+  }
+
+  h2{
+      text-align: center;
+  }
