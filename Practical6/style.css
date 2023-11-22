@@ -1,0 +1,32 @@
+        .biography:link {
+           color: #004cff;
+         }
+         .biography:visited {
+           color: #b0ceff;
+         }
+         
+         .nowadays:link {
+           color: #ae00ff;
+         }
+         .nowadays:visited {
+           color: #dfb1ff;
+         }
+         
+         .friends:link {
+           color: #db0000;
+         }
+         .friends:visited {
+           color: #ffadad;
+         }
+         
+         .gallery:link {
+           color: #00dd0f;
+         }
+         .gallery:visited {
+           color: #a6fbd2;
+         }
+
+         h1{
+         text-align: center;
+         font-size: 24px;
+         }
