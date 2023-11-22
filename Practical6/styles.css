@@ -146,6 +146,12 @@
    text-transform: uppercase;
   }
 
+  .container{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+  }
+
   @media (min-width: 992px) {
   
    .col-lg-1 {
