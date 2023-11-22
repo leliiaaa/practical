@@ -112,10 +112,12 @@
   #after {
     background-color: #599fa4;
     color: #280e70;
+    border:solid 1px;
   }
   #uni {
     background-color: #e72b89;
     color: #2f0f3f;
+    border:solid 1px;
   }
 
   h1{
