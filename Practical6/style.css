@@ -34,7 +34,6 @@
          
          .row {
         display: flex;
-        flex-wrap: wrap;
          }
 
          h2{
@@ -48,18 +47,23 @@
        @media (min-width: 992px){
         h2 {
           flex-direction: row;
+          flex-wrap: wrap;
         }
       }
 
        /*medium */
        @media (min-width: 768px) and (max-width: 992px){
-       
+        h2 {
+          flex-direction: row;
+          flex-wrap: wrap;
+        }
       }
 
         /*small*/
        @media (max-width: 768px){
         h2{
           flex-direction: column;
+          flex-wrap: wrap;
         }
        
       }
