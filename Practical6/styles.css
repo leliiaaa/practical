@@ -100,14 +100,17 @@
   #basic {
     background-color: #de5f5f;
     color: #0d2e66;
+    border:solid 1px;
   }
   #childhood {
     background-color: #cd5980;
     color: #600f60;
+    border:solid 1px;
   }
   #school {
     background-color: #53d2b3;
     color: #105d6f;
+    border:solid 1px;
   }
   #after {
     background-color: #599fa4;
