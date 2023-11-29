@@ -47,3 +47,7 @@
 }
 
   @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Ephesis&family=Saira+Extra+Condensed:wght@100&display=swap');
+
+  h1{
+    font-family: 'Bebas Neue', sans-serif;
+  }
