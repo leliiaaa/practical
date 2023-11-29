@@ -11,17 +11,39 @@
 }
 
 #List{
-    background-color: blueviolet;
-    color: rgb(231, 253, 253);
+    background-color: rgb(191, 93, 202);
+    color: rgb(0, 88, 88);
+    text-decoration: none;
+    display: block;
+    width: 230px;
+    text-align: center;
+    border: 2px dotted #160b3f;
+    margin-bottom: 2px;
+    font-size: 120%;
 }
 
 #Table{
-    background-color: azure;
-    color: rgb(30, 105, 151);
+    background-color: rgb(0, 255, 149);
+    color: rgb(139, 69, 107);
+    text-decoration: none;
+    display: block;
+    width: 230px;
+    text-align: center;
+    border: 2px dotted #160b3f;
+    margin-bottom: 2px;
+    font-size: 120%;
 }
 
 #Img{
-    background-color: bisque;
+    background-color: rgb(251, 255, 0);
+    color: rgb(4, 20, 244);
+    text-decoration: none;
+    display: block;
+    width: 230px;
+    text-align: center;
+    border: 2px dotted #160b3f;
+    margin-bottom: 2px;
+    font-size: 120%;
 }
 
   @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Ephesis&family=Saira+Extra+Condensed:wght@100&display=swap');
