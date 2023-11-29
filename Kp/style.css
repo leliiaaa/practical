@@ -1,6 +1,13 @@
 #Text{
-    background-color: aqua;
-    color: rgb(125, 91, 91);
+    background-color: rgb(2, 255, 255);
+    color: rgb(82, 107, 107);
+    text-decoration: none;
+    display: block;
+    width: 230px;
+    text-align: center;
+    border: 2px dotted #160b3f;
+    margin-bottom: 2px;
+    font-size: 130%;
 }
 
 #List{
