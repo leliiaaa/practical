@@ -19,19 +19,23 @@
 }
 
 .text{
-    background-color: rgb(255, 144, 0)
+    background-color: rgb(255, 144, 0);
+    width: 120px;
 }
 
 .list{
-    background-color: beige
+    background-color: beige;
+    width: 120px;
 }
 
 .table{
-    background-color: blanchedalmond
+    background-color: blanchedalmond;
+    width: 120px;
 }
 
 .img{
-    background-color: aquamarine
+    background-color: aquamarine;
+    width: 120px;
 }
 
   @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Ephesis&family=Saira+Extra+Condensed:wght@100&display=swap');
