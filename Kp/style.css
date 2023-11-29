@@ -21,28 +21,30 @@
 .text{
     background-color: rgb(255, 144, 0);
     width: 140px;
+    font-family: 'Ephesis', cursive;
 }
 
 .list{
     background-color: beige;
     width: 140px;
+    font-family: 'Ephesis', cursive;
 }
 
 .table{
     background-color: blanchedalmond;
     width: 140px;
+    font-family: 'Ephesis', cursive;
 }
 
 .img{
     background-color: aquamarine;
     width: 140px;
+    font-family: 'Ephesis', cursive;
 }
 
   @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Ephesis&family=Saira+Extra+Condensed:wght@100&display=swap');
 
-  h1{
+  h1, h2, h3{
     font-family: 'Bebas Neue', sans-serif;
   }
-  h3{
-    font-family: 'Ephesis', cursive;
-  }
+ 
