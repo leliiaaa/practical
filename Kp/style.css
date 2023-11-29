@@ -20,25 +20,25 @@
 
 .text{
     background-color: rgb(255, 144, 0);
-    width: 140px;
+    width: 160px;
     font-family: 'Ephesis', cursive;
 }
 
 .list{
     background-color: beige;
-    width: 140px;
+    width: 160px;
     font-family: 'Ephesis', cursive;
 }
 
 .table{
     background-color: blanchedalmond;
-    width: 140px;
+    width: 160px;
     font-family: 'Ephesis', cursive;
 }
 
 .img{
     background-color: aquamarine;
-    width: 140px;
+    width: 160px;
     font-family: 'Ephesis', cursive;
 }
 
