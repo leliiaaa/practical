@@ -1,15 +1,20 @@
 #Text{
     background-color: aqua;
+    color: rgb(125, 91, 91);
 }
 
 #List{
     background-color: blueviolet;
+    color: rgb(231, 253, 253);
 }
 
 #Table{
     background-color: azure;
+    color: rgb(30, 105, 151);
 }
 
 #Img{
     background-color: bisque;
 }
+
+  @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Ephesis&family=Saira+Extra+Condensed:wght@100&display=swap');
