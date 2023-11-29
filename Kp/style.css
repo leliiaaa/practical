@@ -20,22 +20,22 @@
 
 .text{
     background-color: rgb(255, 144, 0);
-    width: 120px;
+    width: 140px;
 }
 
 .list{
     background-color: beige;
-    width: 120px;
+    width: 140px;
 }
 
 .table{
     background-color: blanchedalmond;
-    width: 120px;
+    width: 140px;
 }
 
 .img{
     background-color: aquamarine;
-    width: 120px;
+    width: 140px;
 }
 
   @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Ephesis&family=Saira+Extra+Condensed:wght@100&display=swap');
