@@ -1,50 +1,55 @@
 #Text{
     background-color: rgb(2, 255, 255);
     color: rgb(22, 22, 22);
+    font-family: 'Nova Square', sans-serif;
 }
 
 #List{
     background-color: rgb(191, 93, 202);
     color: rgb(0, 88, 88);
+    font-family: 'Nova Square', sans-serif;
 }
 
 #Table{
     background-color: rgb(0, 255, 149);
     color: rgb(56, 67, 81);
+    font-family: 'Nova Square', sans-serif;
 }
 
 #Img{
     background-color: rgb(251, 255, 0);
     color: rgb(4, 20, 244);
+    font-family: 'Nova Square', sans-serif;
 }
 
 .text{
     background-color: rgb(255, 144, 0);
     width: 160px;
-    font-family: 'Ephesis', cursive;
+    font-family: 'Playfair Display', serif;
 }
 
 .list{
     background-color: beige;
     width: 160px;
-    font-family: 'Ephesis', cursive;
+    font-family: 'Playfair Display', serif;
 }
 
 .table{
     background-color: blanchedalmond;
     width: 160px;
-    font-family: 'Ephesis', cursive;
+    font-family: 'Playfair Display', serif;
 }
 
 .img{
     background-color: aquamarine;
     width: 160px;
-    font-family: 'Ephesis', cursive;
+    font-family: 'Playfair Display', serif;
 }
 
-  @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Ephesis&family=Saira+Extra+Condensed:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Hedvig+Letters+Serif:opsz@12..24&family=Nova+Square&family=Playfair+Display:ital@1&display=swap');
+
 
   h1, h2, h3{
-    font-family: 'Bebas Neue', sans-serif;
+    font-family: 'Hedvig Letters Serif', serif;
   }
  
