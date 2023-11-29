@@ -141,40 +141,40 @@
    }
 
    @media (min-width: 768px) and (max-width: 992px){
-    .col-md-1 {
+    .col-mdl-1 {
      flex-basis: 8.33%;
     }
-    .col-md-2 {
+    .col-mdl-2 {
      flex-basis: 16.66%;
     }
-    .col-md-3 {
+    .col-mdl-3 {
      flex-basis: 25%;
     }
-    .col-md-4 {
+    .col-mdl-4 {
      flex-basis: 33.33%;
     }
-    .col-md-5 {
+    .col-mdl-5 {
      flex-basis: 41.66%;
     }
-    .col-md-6 {
+    .col-mdl-6 {
      flex-basis: 50%;
     }
-    .col-md-7 {
+    .col-mdl-7 {
      flex-basis: 58.33%;
     }
-    .col-md-8 {
+    .col-mdl-8 {
      flex-basis: 66.66%;
     }
-    .col-md-9 {
+    .col-mdl-9 {
      flex-basis: 75%;
     }
-    .col-md-10 {
+    .col-mdl-10 {
      flex-basis: 83.33%;
     }
-    .col-md-11 {
+    .col-mdl-11 {
      flex-basis: 91.66%;
     }
-    .col-md-12 {
+    .col-mdl-12 {
      flex-basis: 100%;
     }
    }
