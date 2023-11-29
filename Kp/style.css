@@ -18,6 +18,22 @@
     color: rgb(4, 20, 244);
 }
 
+.text{
+    background-color: rgb(255, 144, 0)
+}
+
+.list{
+    background-color: beige
+}
+
+.table{
+    background-color: blanchedalmond
+}
+
+.img{
+    background-color: aquamarine
+}
+
   @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Ephesis&family=Saira+Extra+Condensed:wght@100&display=swap');
 
   h1{
