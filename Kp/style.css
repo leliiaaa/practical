@@ -1,49 +1,21 @@
 #Text{
     background-color: rgb(2, 255, 255);
     color: rgb(82, 107, 107);
-    text-decoration: none;
-    display: block;
-    width: 230px;
-    text-align: center;
-    border: 2px dotted #160b3f;
-    margin-bottom: 2px;
-    font-size: 130%;
 }
 
 #List{
     background-color: rgb(191, 93, 202);
     color: rgb(0, 88, 88);
-    text-decoration: none;
-    display: block;
-    width: 230px;
-    text-align: center;
-    border: 2px dotted #160b3f;
-    margin-bottom: 2px;
-    font-size: 120%;
 }
 
 #Table{
     background-color: rgb(0, 255, 149);
     color: rgb(139, 69, 107);
-    text-decoration: none;
-    display: block;
-    width: 230px;
-    text-align: center;
-    border: 2px dotted #160b3f;
-    margin-bottom: 2px;
-    font-size: 120%;
 }
 
 #Img{
     background-color: rgb(251, 255, 0);
     color: rgb(4, 20, 244);
-    text-decoration: none;
-    display: block;
-    width: 230px;
-    text-align: center;
-    border: 2px dotted #160b3f;
-    margin-bottom: 2px;
-    font-size: 120%;
 }
 
   @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Ephesis&family=Saira+Extra+Condensed:wght@100&display=swap');
